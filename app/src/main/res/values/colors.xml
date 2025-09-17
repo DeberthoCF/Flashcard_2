@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ajoutez vos nouvelles couleurs ici -->
+    <color name="my_light_blue">#00D4FF</color>
+    <color name="my_red">#FF0000</color>
+    <color name="my_dark_red">#8B0000</color>
+
+    <!-- Couleurs souvent prédéfinies ou utiles à avoir -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
+

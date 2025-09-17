@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Coins arrondis -->
+    <corners android:radius="50dp" />
+
+    <!-- Bordure -->
+    <stroke
+        android:color="@color/black"
+        android:width="7dp" />
+
+    <!-- Couleur de fond -->
+    <solid android:color="@color/my_light_blue" />
+</shape>
